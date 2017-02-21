@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/instal/eclipse" version="1.8.0_92">
+<bootpath>
+<entry path="/instal/eclipse/jre/lib/resources.jar"/>
+<entry path="/instal/eclipse/jre/lib/rt.jar"/>
+<entry path="/instal/eclipse/jre/lib/sunrsasign.jar"/>
+<entry path="/instal/eclipse/jre/lib/jsse.jar"/>
+<entry path="/instal/eclipse/jre/lib/jce.jar"/>
+<entry path="/instal/eclipse/jre/lib/charsets.jar"/>
+<entry path="/instal/eclipse/jre/lib/jfr.jar"/>
+<entry path="/instal/eclipse/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/instal/eclipse/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/instal/eclipse/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

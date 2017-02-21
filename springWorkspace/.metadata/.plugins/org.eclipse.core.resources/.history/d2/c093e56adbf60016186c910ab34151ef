@@ -1,0 +1,23 @@
+package org.spring.Spring1;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+
+public class SpringDriver {
+
+	public static void main(String[] args) {
+		
+		//locate the xml file
+				 ApplicationContext context = 
+	             new ClassPathXmlApplicationContext("Spring1/src/main/java//org/spring/spring1/spring.xml");
+				 
+				 Test ts =(Test)context.getBean("t");
+				 ts.hello();
+
+	
+
+	}
+
+}
