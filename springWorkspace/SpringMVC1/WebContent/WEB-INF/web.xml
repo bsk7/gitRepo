@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+<display-name>MVC_Hello</display-name>
+<welcome-file-list>
+	<welcome-file>index.jsp</welcome-file>
+</welcome-file-list>
+<!-- default -->
+
+<servlet>
+	<servlet-name>hello</servlet-name>
+	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>hello</servlet-name>
+	<url-pattern>*.ds</url-pattern>
+</servlet-mapping>
+
+
+
+</web-app>

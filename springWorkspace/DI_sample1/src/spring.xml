@@ -5,7 +5,14 @@
 			
 			<bean class="org.spring.Test" id="t">
 			<property name="gender" value="MR"></property>
-			<property name="gender" value="MrR"></property>
+			
+			</bean>
+			
+			<bean class="org.spring.TestCons" id="tc">
+			
+				<constructor-arg value="sudheer7" index="1"/>
+				<constructor-arg value="25" index="0"/>
+				
 			</bean>
 			
 			</beans>

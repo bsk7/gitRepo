@@ -175,3 +175,67 @@
 2017-02-20 01:19:07,960 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
 2017-02-20 01:19:07,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-02-20 01:19:07,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-02-26 18:50:33,478 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 18:50:33,509 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-02-26 18:50:33,512 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-26 18:50:33,512 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-02-28 22:18:16,824 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 22:18:16,852 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-02-28 22:18:16,855 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 22:18:16,855 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-02-28 23:24:12,476 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 23:24:12,478 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-02-28 23:24:12,479 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 23:24:12,479 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-02-28 23:30:50,518 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 23:30:50,518 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-02-28 23:30:50,520 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-28 23:30:50,520 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-01 22:33:14,315 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 22:33:14,358 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-01 22:33:14,360 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-01 22:33:14,360 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-03 15:34:28,554 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:34:28,586 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-03 15:34:28,588 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 15:34:28,588 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-03 16:07:42,483 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:07:42,487 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-03 16:07:42,497 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-03 16:07:42,504 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-09 06:58:55,310 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-09 06:58:55,336 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-09 06:58:55,339 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-09 06:58:55,340 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-09 22:15:50,600 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-09 22:15:50,655 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-09 22:15:50,661 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-09 22:15:50,662 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-11 20:35:23,695 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-11 20:35:23,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-11 20:35:23,778 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-11 20:35:23,778 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-12 08:03:45,399 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-12 08:03:45,492 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-12 08:03:45,509 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-12 08:03:45,517 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-16 07:09:23,680 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 07:09:23,780 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-16 07:09:23,788 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-16 07:09:23,793 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-17 07:11:14,927 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 07:11:15,010 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-17 07:11:15,023 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-17 07:11:15,025 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-19 11:42:55,081 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-19 11:42:55,136 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-19 11:42:55,138 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-19 11:42:55,138 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-24 18:17:06,799 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-24 18:17:06,867 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-24 18:17:06,878 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-24 18:17:06,891 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources
+2017-03-24 19:17:46,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-24 19:17:46,115 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/main/resources
+2017-03-24 19:17:46,117 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-24 19:17:46,117 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bsk7/gitRepo/springWorkspace/Spring1/src/test/resources

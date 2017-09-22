@@ -1,0 +1,29 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+			<beans default-init-method="init" default-destroy-method="destroy">
+			
+			 
+			
+						
+			
+			
+			
+			
+			
+			<bean class="beans.Test" id="t">
+			<property name="driverName" value="com.mysql.jdbc.Driver"/>
+			<property name="url" value="jdbc:mysql://localhost/bsk"/>
+			<property name="user" value="root"/>
+			<property name="pwd" value="root"/>
+			</bean>
+			
+			<bean class="beans.Test1" id="t1"/>
+			<bean class="beans.Test2" id="t2"/>
+			
+			
+		
+			
+		
+			
+			</beans>

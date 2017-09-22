@@ -1,0 +1,14 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+			<beans>
+			
+			<bean class="org.spring.Car" id="car" autowire="autodetect">
+			<property name="carName" value="Audi"/>
+			<!-- <property name="engine" ref="eng"/> -->
+			
+			</bean>
+			
+			
+			
+			</beans>

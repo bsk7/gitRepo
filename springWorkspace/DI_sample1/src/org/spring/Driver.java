@@ -15,6 +15,9 @@ public class Driver {
 		BeanFactory f = new XmlBeanFactory(r);
 		Test t =(Test)f.getBean("t");
 		t.hello("BSK");
+		
+		TestCons tc =(TestCons)f.getBean("tc");
+		tc.hello();
 
 	}
 

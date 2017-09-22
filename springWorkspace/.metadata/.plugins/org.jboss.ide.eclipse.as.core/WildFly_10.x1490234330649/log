@@ -1,0 +1,70 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-23 08:28:24.865
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /instal/eclipse 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-23 08:28:24.952
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-03-23 08:28:33.557
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 08:28:33.564
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 08:28:53.578
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-23 08:29:48.066
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /instal/eclipse 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-23 08:29:48.103
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2017-03-23 08:29:50.317
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 08:29:50.324
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 08:30:10.337
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2017-03-23 08:33:10.498
+!MESSAGE The server "WildFly 10.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. /instal/eclipse 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-03-23 08:33:10.517
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 08:33:15.757
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-03-23 08:33:15.758
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 08:33:35.771
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 08:36:11.987
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 08:36:32.001
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 09:17:58.092
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 09:18:18.104
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 09:33:51.931
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 09:34:11.948
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2017-03-23 09:40:35.945
+!MESSAGE Module SpringMVC1 on WildFly 10.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2017-03-23 09:40:55.958
+!MESSAGE Module SpringMVC1 on WildFly 10.x still not ready to be shown in browser. Aborting delay.

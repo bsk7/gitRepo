@@ -1,0 +1,43 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+			
+			<beans>
+			
+			<bean class="org.spring.bsk.Engine" id="e1">
+			<property name="modelyear" value="2013"/>
+			</bean>
+			
+			<bean class="org.spring.bsk.Engine" id="e2">
+			<property name="modelyear" value="2014"/>
+			</bean>
+			
+			<bean class="org.spring.bsk.Engine" id="e3">
+			<property name="modelyear" value="2015"/>
+			</bean>
+			
+			<bean class="org.spring.bsk.Car" id="c">
+			
+				<property name="carNames">
+				<list>
+				<value>Audi</value>
+				<value>Benze</value>
+				<value>Maruthi</value>
+				</list>
+				
+				
+				</property>
+				
+				
+				<property name="engines">
+				<list>
+				<ref bean="e1"/>
+				<ref bean="e2"/>
+				<ref bean="e3"/>
+				</list>
+				
+				
+				</property>
+				
+			</bean>
+			
+			</beans>
